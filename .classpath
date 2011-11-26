@@ -3,5 +3,16 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="bin"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="import/binding.jar"/>
+	<classpathentry kind="lib" path="import/jdatepicker-beans.jar"/>
+	<classpathentry kind="lib" path="import/jdatepicker-binding.jar"/>
+	<classpathentry kind="lib" path="import/jdatepicker-dbswing.jar"/>
+	<classpathentry kind="lib" path="import/jdatepicker-demo.jar"/>
+	<classpathentry kind="lib" path="import/jdatepicker-i18n.jar"/>
+	<classpathentry kind="lib" path="import/jdatepicker-jclient.jar"/>
+	<classpathentry kind="lib" path="import/jdatepicker.jar"/>
+	<classpathentry kind="lib" path="import/jlfgr-1_0.jar"/>
+	<classpathentry kind="lib" path="import/looks-2.1.1.jar"/>
+	<classpathentry kind="lib" path="import/quaqua.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
